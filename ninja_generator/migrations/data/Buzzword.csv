@@ -1,0 +1,185 @@
+Name,Type,Description
+Node.js,Platform, Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine. 
+iOS,Platform, Mobile operating system for Apple phones and tablets.
+Android,Platform, Mobile operating system developed by Google.
+IoT & Hybrid Apps,Platform,Electron - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+Electron,Platform, Cross-platform native desktop apps using JavaScript/HTML/CSS.
+Cordova,Platform, JavaScript API for hybrid apps.
+React Native,Platform, JavaScript framework for writing natively rendering mobile apps for iOS and Android.
+Xamarin,Platform," Mobile app development IDE, testing, and distribution."
+Linux,Platform,watchOS - Operating system for the Apple Watch.
+watchOS,Platform, Operating system for the Apple Watch.
+JVM,Platform,Salesforce
+Salesforce,Platform,Amazon Web Services
+Amazon Web Services,Platform,Windows
+Windows,Platform,IPFS - P2P hypermedia protocol.
+IPFS,Platform, P2P hypermedia protocol.
+Fuse,Platform, Mobile development tools.
+Heroku,Platform, Cloud platform as a service.
+Raspberry Pi,Platform," Credit card-sized computer aimed at teaching kids programming, but capable of a lot more."
+Qt,Platform, Cross-platform GUI app framework.
+WebExtensions,Platform, Cross-browser extension system.
+Smart TV,Platform, Create apps for different TV platforms.
+GNOME,Platform, Simple and distraction-free desktop environment for Linux.
+KDE,Platform, A free software community dedicated to creating an open and user-friendly computing experience.
+.NET,Platform,Amazon Alexa - Virtual home assistant.
+Amazon Alexa,Platform, Virtual home assistant.
+DigitalOcean,Platform, Cloud computing platform designed for developers.
+Flutter,Platform, Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+Home Assistant,Platform, Open source home automation that puts local control and privacy first.
+IBM Cloud,Platform, Cloud platform for developers and companies.
+Firebase,Platform, App development platform built on Google Cloud Platform.
+Robot Operating System 2.0,Platform, Set of software libraries and tools that help you build robot apps.
+Adafruit IO,Platform, Visualize and store data from any device.
+Cloudflare,Platform," CDN, DNS, DDoS protection, and security for your site."
+Actions on Google,Platform, Developer platform for Google Assistant.
+ESP,Platform, Low-cost microcontrollers with WiFi and broad IoT applications.
+Deno,Platform, A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+DOS,Platform, Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+Nix,Platform, Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+Integration,Platform, Linking together different IT systems (components) to functionally cooperate as a whole.
+Node,Platform,"RED - A programming tool for wiring together hardware devices, APIs, and online services."
+Low Code,Platform, Allowing business professionals to address their needs on their own with little to no coding skills.
+Capacitor,Platform, Cross-platform open source runtime for building Web Native apps.
+ArcGIS Developer,Platform, Mapping and location analysis platform for developers.
+JavaScript,Programming Language,"Swift - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast."
+Swift,Programming Language," Apple's compiled programming language that is secure, modern, programmer-friendly, and fast."
+Python,Programming Language, General-purpose programming language designed for readability.
+Rust,Programming Language,Haskell
+Haskell,Programming Language,PureScript
+PureScript,Programming Language,Go
+Go,Programming Language,Scala
+Scala,Programming Language,Ruby
+Ruby,Programming Language,Clojure
+Clojure,Programming Language,ClojureScript
+ClojureScript,Programming Language,Elixir
+Elixir,Programming Language,Elm
+Elm,Programming Language,Erlang
+Erlang,Programming Language,Julia - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
+Julia,Programming Language, High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
+Lua,Programming Language,C
+C,Programming Language,"C/C++ - General-purpose language with a bias toward system programming and embedded, resource-constrained software."
+C/C++,Programming Language," General-purpose language with a bias toward system programming and embedded, resource-constrained software."
+R,Programming Language, Functional programming language and environment for statistical computing and graphics.
+Common Lisp,Programming Language, Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+Perl,Programming Language,Groovy
+Groovy,Programming Language,Dart
+Dart,Programming Language,"Java - Popular secure object-oriented language designed for flexibility to ""write once, run anywhere""."
+Java,Programming Language," Popular secure object-oriented language designed for flexibility to ""write once, run anywhere""."
+Kotlin,Programming Language,OCaml
+OCaml,Programming Language,ColdFusion
+ColdFusion,Programming Language,Fortran
+Fortran,Programming Language,PHP - Server-side scripting language.
+PHP,Programming Language, Server-side scripting language.
+Pascal,Programming Language,AutoHotkey
+AutoHotkey,Programming Language,AutoIt
+AutoIt,Programming Language,Crystal
+Crystal,Programming Language,Frege - Haskell for the JVM.
+Frege,Programming Language, Haskell for the JVM.
+CMake,Programming Language," Build, test, and package software."
+ActionScript 3,Programming Language, Object-oriented language targeting Adobe AIR.
+Eta,Programming Language, Functional programming language for the JVM.
+Idris,Programming Language, General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+Ada/SPARK,Programming Language," Modern programming language designed for large, long-lived apps where reliability and efficiency are essential."
+Q#,Programming Language, Domain-specific programming language used for expressing quantum algorithms.
+Imba,Programming Language, Programming language inspired by Ruby and Python and compiles to performant JavaScript.
+Vala,Programming Language," Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code."
+Coq,Programming Language, Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
+V,Programming Language," Simple, fast, safe, compiled language for developing maintainable software."
+Zig,Programming Language," General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software."
+Web Audio,Front-End ,
+Offline,Front-End ,
+Static Website Services,Front-End ,Cycle.js - Functional and reactive JavaScript framework.
+Cycle.js,Front-End , Functional and reactive JavaScript framework.
+Text Editing,Front-End ,Motion UI Design
+Motion UI Design,Front-End ,Vue.js - App framework.
+Vue.js,Front-End , App framework.
+Marionette.js,Front-End , App framework.
+Aurelia,Front-End , App framework.
+Charting,Front-End ,Ionic Framework 2
+Ionic Framework 2,Front-End ,Chrome DevTools
+Chrome DevTools,Front-End ,PostCSS - CSS tool.
+PostCSS,Front-End , CSS tool.
+Draft.js,Front-End , Rich text editor framework for React.
+Service Workers,Front-End ,Progressive Web Apps
+Progressive Web Apps,Front-End ,choo - App framework.
+choo,Front-End , App framework.
+Redux,Front-End , State container for JavaScript apps.
+Browserify,Front-End , Module bundler.
+Sass,Front-End , CSS preprocessor.
+Ant Design,Front-End , Enterprise-class UI design language.
+Less,Front-End , CSS preprocessor.
+WebGL,Front-End , JavaScript API for rendering 3D graphics.
+Preact,Front-End , App framework.
+Progressive Enhancement,Front-End ,Next.js - Framework for server-rendered React apps.
+Next.js,Front-End , Framework for server-rendered React apps.
+lit,Front-End , Library for building web components with a declarative template system.
+JAMstack,Front-End ," Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup."
+WordPress,Front-End ,Gatsby - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+Mobile Web Development,Front-End , Creating a great mobile web experience.
+Storybook,Front-End , Development environment for UI components.
+Blazor,Front-End , .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+PageSpeed Metrics,Front-End , Metrics to help understand page speed and user experience.
+Tailwind CSS,Front-End , Utility-first CSS framework for rapid UI development.
+Seed,Front-End , Rust framework for creating web apps running in WebAssembly.
+Web Performance Budget,Front-End , Techniques to ensure certain performance metrics for a website.
+Web Animation,Front-End ," Animations in the browser with JavaScript, CSS, SVG, etc."
+Yew,Front-End , Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
+Material,Front-End ,UI - Material Design React components for faster and easier web development.
+Building Blocks for Web Apps,Front-End , Standalone features to be integrated into web apps.
+Svelte,Front-End , App framework.
+Design systems,Front-End ," Collection of reusable components, guided by rules that ensure consistency and speed."
+Inertia.js,Front-End , Make single-page apps without building an API.
+MDBootstrap,Front-End ," Templates, layouts, components, and widgets to rapidly build websites."
+Web Components,Front-End ,Polymer - JavaScript library to develop Web Components.
+Polymer,Front-End , JavaScript library to develop Web Components.
+Angular,Front-End , App framework.
+Backbone,Front-End , App framework.
+HTML5,Front-End , Markup language used for websites & web apps.
+SVG,Front-End , XML-based vector image format.
+Canvas,Front-End ,KnockoutJS - JavaScript library.
+KnockoutJS,Front-End , JavaScript library.
+Dojo Toolkit,Front-End , JavaScript toolkit.
+Inspiration,Front-End ,Ember - App framework.
+Ember,Front-End , App framework.
+Android UI,Front-End ,iOS UI
+iOS UI,Front-End ,Meteor
+Meteor,Front-End ,BEM
+BEM,Front-End ,Flexbox
+Flexbox,Front-End ,Web Typography
+Web Typography,Front-End ,Web Accessibility
+Web Accessibility,Front-End ,Material Design
+Material Design,Front-End ,"D3 - Library for producing dynamic, interactive data visualizations."
+D3,Front-End ," Library for producing dynamic, interactive data visualizations."
+Emails,Front-End ,jQuery - Easy to use JavaScript library for DOM manipulation.
+jQuery,Front-End , Easy to use JavaScript library for DOM manipulation.
+React,Front-End , JavaScript library for building user interfaces.
+ES6 Tools,Front-End ,Web Performance Optimization
+Web Performance Optimization,Front-End ,Web Tools
+Web Tools,Front-End ,CSS - Style sheet language that specifies how HTML elements are displayed on screen.
+CSS,Front-End , Style sheet language that specifies how HTML elements are displayed on screen.
+Flask,Back-End , Python framework.
+Docker,Back-End ,Vagrant - Automation virtual machine environment.
+Vagrant,Back-End , Automation virtual machine environment.
+Pyramid,Back-End , Python framework.
+Play1 Framework,Back-End ,CakePHP - PHP framework.
+CakePHP,Back-End , PHP framework.
+Symfony,Back-End , PHP framework.
+Laravel,Back-End , PHP framework.
+Rails,Back-End , Web app framework for Ruby.
+Phalcon,Back-End , PHP framework.
+nginx,Back-End , Web server.
+Dropwizard,Back-End , Java framework.
+Kubernetes,Back-End , Open-source platform that automates Linux container operations.
+Lumen,Back-End , PHP micro-framework.
+Serverless Framework,Back-End , Serverless computing and serverless architectures.
+Apache Wicket,Back-End , Java web app framework.
+Vert.x,Back-End , Toolkit for building reactive apps on the JVM.
+Terraform,Back-End ," Tool for building, changing, and versioning infrastructure."
+Vapor,Back-End , Server-side development in Swift.
+Dash,Back-End , Python web app framework.
+FastAPI,Back-End , Python web app framework.
+CDK,Back-End , Open-source software development framework for defining cloud infrastructure in code.
+IAM,Back-End ," User accounts, authentication and authorization."
+Slim,Back-End , PHP framework.
+Fiber,Back-End ," Web framework built on top of Fasthttp, the fastest HTTP engine for Go."

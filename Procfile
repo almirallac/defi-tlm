@@ -1,0 +1,1 @@
+web: gunicorn defi_tlm.wsgi --log-file -
