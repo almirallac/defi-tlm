@@ -1,4 +1,5 @@
 # defi-tlm
+- Link of the demo : [Link](https://defi-tlm.herokuapp.com/)
 - Technology names from :https://www.fantasynamegenerators.com/ninja-names.php
 - Dropped them in a google sheet file and did regex to fix the data : https://docs.google.com/spreadsheets/d/13daoXaZZmMc5UuWAS0T0xpju2q9QYlKicWdgrQBJelc/edit?usp=sharing
 
